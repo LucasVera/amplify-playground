@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyplayground",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\repos\\amplify-playground\\amplify\\backend\\api\\amplifyplayground\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
